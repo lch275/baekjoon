@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Solution3197 {
     static int R, C;
     static char[][] lake;
     static boolean[][] swanVisited, waterVisited;

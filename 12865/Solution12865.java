@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Solution12865 {
     public static void main(String[] args) throws Exception{
         BufferedReader bufferedReader = new BufferedReader(new java.io.InputStreamReader(System.in));
         StringTokenizer stringTokenizer = new StringTokenizer(bufferedReader.readLine());
